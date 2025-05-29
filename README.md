@@ -1,9 +1,9 @@
 ## Hi there I'm Secundino 👋
 
-😎 About Me
-👕 Work
-🎓 Education
-📬 Get in Touch
+- 😎 About Me
+- 👕 Work
+- 🎓 Education
+- 📬 Get in Touch
 
 Linkedin: https://www.linkedin.com/in/siglesiasg
 
