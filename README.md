@@ -1,11 +1,11 @@
 ## Hi there I'm Secundino 👋
 
-- 😎 About Me
-- 👕 Work
-- 🎓 Education
-- 📬 Get in Touch
+### 😎 About Me
+### 👕 Work
+### 🎓 Education
+### 📬 Get in Touch
 
-Linkedin: https://www.linkedin.com/in/siglesiasg
+- Linkedin: https://www.linkedin.com/in/siglesiasg
 
 <!--
 **siglesiasg/siglesiasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
